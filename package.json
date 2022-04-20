@@ -1,0 +1,27 @@
+{
+  "name": "fullnodejs",
+  "version": "1.0.0",
+  "description": "nodejs tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavelSilinskii/fullnodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "npm"
+  ],
+  "author": "Pavel Silinskii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavelSilinskii/fullnodejs/issues"
+  },
+  "homepage": "https://github.com/PavelSilinskii/fullnodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
