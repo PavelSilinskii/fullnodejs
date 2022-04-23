@@ -5,7 +5,7 @@ const user= {
 
 module.exports = {
     user:user,
-    sayHello(){
-        console.log('Hello ', user.name)
+    sayHello(message){
+        console.log('Hello ', user.name + message)
     }
 }

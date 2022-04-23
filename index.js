@@ -1,6 +1,6 @@
 // const userObj = require ('./user')
 // console.log(userObj.user)
-// userObj.sayHello()
+// userObj.sayHello('nice to meet you')
 
 const http = require ('http')
 
